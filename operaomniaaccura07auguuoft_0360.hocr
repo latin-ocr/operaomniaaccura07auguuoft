@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaaccura07auguuoft_0360.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 449 2719 495 3983">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 449 2719 495 3983">
+     <span class='ocr_line' id='line_1_1' title="bbox 449 2719 495 3983; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 449 2719 469 2856; x_wconf 54' lang='lat'>......»=·-.</span> <span class='ocrx_word' id='word_1_2' title='bbox 452 2878 471 2959; x_wconf 45' lang='grc' dir='ltr'>Ἦμς</span> <span class='ocrx_word' id='word_1_3' title='bbox 454 2985 474 3130; x_wconf 32' lang='lat' dir='ltr'>„arwam</span> <span class='ocrx_word' id='word_1_4' title='bbox 462 3439 493 3838; x_wconf 47' lang='lat'>¹·*··⁸2·&#39;⁴3·⁵·²&#39;³3&#39;¹&#39;³*¹:⁸³⁵¹</span> <span class='ocrx_word' id='word_1_5' title='bbox 474 3862 493 3872; x_wconf 46' lang='grc' dir='ltr'><em>ν</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 475 3894 495 3905; x_wconf 50' lang='lat'>&#39;⁸</span> <span class='ocrx_word' id='word_1_7' title='bbox 475 3928 494 3983; x_wconf 28' lang='grc' dir='ltr'>μ’·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 414 682 458 957">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 414 682 458 957">
+     <span class='ocr_line' id='line_1_2' title="bbox 414 682 458 957; textangle 270"><span class='ocrx_word' id='word_1_8' title='bbox 414 682 458 957; x_wconf 39' lang='grc' dir='ltr'>ιμμέυὶὲιᾱὶιηέ·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2912 4368">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2912 4368">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2912 4368; textangle 270"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 2912 4368; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
